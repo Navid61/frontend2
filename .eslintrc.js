@@ -17,7 +17,7 @@ module.exports = {
     'no-undef': 0,
     'quotes': [
       'error',
-      'single'
+      'doublequote'
     ],
     'semi': [
       'error',
